@@ -1,0 +1,6 @@
+{
+  "name": "Finance News Analyzer",
+  "description": "Analyze financial news articles with AI: sentiment classification (Positive/Negative/Neutral), executive summary, key market implications, and interactive Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
